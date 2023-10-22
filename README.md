@@ -1,5 +1,7 @@
 # springboot-microservices
-Eureka-ConfigServer
+Eureka-ConfigServer-Hystrix
+
+![image](https://github.com/srss-pocs/springboot-microservices/assets/145287517/4a021a46-545e-433b-8198-374815a940fb)
 
 
 Start the discovery server 
